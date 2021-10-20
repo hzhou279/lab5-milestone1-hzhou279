@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab5milestone1hzhou279">
         <activity
+            android:name=".ThirdActivity"
+            android:exported="true" />
+        <activity
             android:name=".AfterLogin"
             android:exported="true" />
         <activity
